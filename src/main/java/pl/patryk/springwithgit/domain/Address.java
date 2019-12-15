@@ -1,4 +1,4 @@
-package pl.patryk.springwithgit.controller.rest.domain;
+package pl.patryk.springwithgit.domain;
 
 public class Address {
     private String city;
